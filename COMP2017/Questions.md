@@ -1,0 +1,2 @@
+- I don't get virtual memory and physical memory
+- So it first creates virtual
