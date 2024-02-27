@@ -82,9 +82,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e1867bfbf643cddb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OLE/Module 2 - Calm Before the Storm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OLE/Module 1 - Introduction.md",
+                "file": "OLE/Module 2 - Calm Before the Storm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OLE/Module 1 - Introduction.md",
+                "file": "OLE/Module 2 - Calm Before the Storm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OLE/Module 1 - Introduction.md"
+                "file": "OLE/Module 2 - Calm Before the Storm.md"
               }
             }
           }
@@ -211,8 +223,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cff3664d82480c84",
+  "active": "e1867bfbf643cddb",
   "lastOpenFiles": [
+    "Pasted image 20240227104658.png",
+    "OLE/Module 1 - Introduction.md",
+    "OLE/Module 2 - Calm Before the Storm.md",
     "COMP2017/Lecture 1 - Introduction to the Course & Memory.md",
     "COMP2017/Questions.md",
     "COMP2017/Images/Pasted image 20240224141603.png",
@@ -222,7 +237,6 @@
     "Pasted image 20240224140836.png",
     "COMP2017/Images/Pasted image 20240224140940.png",
     "COMP2017/Images",
-    "OLE/Module 1 - Introduction.md",
     "COMP2017",
     "COMP3308/notes/Lecture 1 - Introduction.md",
     "OLE",
